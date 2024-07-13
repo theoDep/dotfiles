@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 803e1a784cd520f101d126b47deea3297e6a82fc Théo DEPELSEMACKER <theo@audi-on.com> 1714218295 +0200	fetch --depth=1 origin: storing head
+803e1a784cd520f101d126b47deea3297e6a82fc 5947c3c3c91d04fa0bff45866938027b85b56c6e Théo DEPELSEMACKER <theo@audi-on.com> 1715325123 +0200	pull --quiet --rebase origin master: fast-forward
+5947c3c3c91d04fa0bff45866938027b85b56c6e 203369b0f9ec284e06b73f555a14fa5f02be5a0a Théo DEPELSEMACKER <theo@audi-on.com> 1716447931 +0200	pull --quiet --rebase origin master: fast-forward
+203369b0f9ec284e06b73f555a14fa5f02be5a0a efdfe2f29ac57a9de76391b4e5548edab6a43241 Théo DEPELSEMACKER <theo@audi-on.com> 1717571904 +0200	pull --quiet --rebase origin master: fast-forward
+efdfe2f29ac57a9de76391b4e5548edab6a43241 c83ca51b1b2fce89c5eae0b0bc9600ee4df28e08 Théo DEPELSEMACKER <theo@audi-on.com> 1718696823 +0200	pull --quiet --rebase origin master: fast-forward
+c83ca51b1b2fce89c5eae0b0bc9600ee4df28e08 dd4be1b6fb9973d63eba334d8bd92b3da30b3e72 Théo DEPELSEMACKER <theo@audi-on.com> 1719856648 +0200	pull --quiet --rebase origin master: fast-forward
